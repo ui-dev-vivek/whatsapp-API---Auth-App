@@ -1,0 +1,17 @@
+2022/07/25-01:12:50.350 55d4 Reusing MANIFEST C:\Users\vivek\Desktop\api\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/07/25-01:12:50.350 55d4 Recovering log #13
+2022/07/25-01:12:50.423 55d4 Reusing old log C:\Users\vivek\Desktop\api\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000013.log 
+2022/07/25-01:12:50.423 55d4 Delete type=2 #11
+2022/07/25-01:12:50.423 55d4 Delete type=2 #12
+2022/07/25-01:12:50.423 55d4 Delete type=2 #14
+2022/07/25-01:13:31.501 5910 Level-0 table #19: started
+2022/07/25-01:13:31.577 5910 Level-0 table #19: 1047037 bytes OK
+2022/07/25-01:13:31.581 5910 Delete type=0 #13
+2022/07/25-01:13:31.687 5910 Compacting 1@1 + 2@2 files
+2022/07/25-01:13:31.811 5910 Generated table #20@1: 17746 keys, 2191340 bytes
+2022/07/25-01:13:31.937 5910 Generated table #21@1: 28971 keys, 1146025 bytes
+2022/07/25-01:13:31.937 5910 Compacted 1@1 + 2@2 files => 3337365 bytes
+2022/07/25-01:13:31.940 5910 compacted to: files[ 0 0 2 0 0 0 0 ]
+2022/07/25-01:13:31.940 5910 Delete type=2 #15
+2022/07/25-01:13:31.940 5910 Delete type=2 #16
+2022/07/25-01:13:31.941 5910 Delete type=2 #19
